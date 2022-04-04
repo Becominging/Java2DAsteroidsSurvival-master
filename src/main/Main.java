@@ -5,7 +5,7 @@ import game.Display;
 
 /**
  *
- * @author leonardo
+ * @java group homework 2022
  */
 public class Main {
 
